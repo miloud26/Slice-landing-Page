@@ -1,0 +1,5 @@
+{
+  "name": "Remix: AI Image Slicer \u0026 Enhancer",
+  "description": "Upload a collage image and automatically split it into three separate high-quality parts with AI enhancement.",
+  "requestFramePermissions": []
+}
